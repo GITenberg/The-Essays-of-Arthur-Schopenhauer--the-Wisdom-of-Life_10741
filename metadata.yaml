@@ -1,0 +1,36 @@
+_repo: The-Essays-of-Arthur-Schopenhauer--the-Wisdom-of-Life_10741
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Saunders, T. Bailey (Thomas Bailey)
+    aliases:
+    - Saunders, Thomas Bailey
+    - Saunders, Bailey
+    birthdate: &id001 1860
+    deathdate: 1928
+    gutenberg_agent_id: '4542'
+    url: http://www.gutenberg.org/2009/agents/4542
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: *id001
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Maxims'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: 'The Essays of Arthur Schopenhauer: the Wisdom of Life'
+url: http://www.gutenberg.org/ebooks/10741
