@@ -1,24 +1,29 @@
 _repo: The-Essays-of-Arthur-Schopenhauer--the-Wisdom-of-Life_10741
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Saunders, T. Bailey (Thomas Bailey)
     aliases:
     - Saunders, Thomas Bailey
     - Saunders, Bailey
-    birthdate: &id001 1860
+    birthdate: 1860
     deathdate: 1928
     gutenberg_agent_id: '4542'
     url: http://www.gutenberg.org/2009/agents/4542
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schopenhauer, Arthur
     birthdate: 1788
-    deathdate: *id001
+    deathdate: 1860
     gutenberg_agent_id: '3648'
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10741#The-Essays-of-Arthur-Schopenhauer--the-Wisdom-of-Life
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
